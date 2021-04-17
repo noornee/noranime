@@ -1,6 +1,6 @@
 # noranime
 an anime site
-### Links are already broken because the site i scraped my data from changed their url added also added a captcha 
+### Links are already broken because the site i scraped my data from changed their url and also added a captcha 
 
 ## Build Setup
 
